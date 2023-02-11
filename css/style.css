@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@900&family=Merriweather&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body{
+	font-family: 'Merriweather', serif;
+	font-size: 18px;
+}
+h1, h2, h3{
+	font-family: 'Lato', sans-serif;
+	font-weight: bolder;
+}
+a{
+	text-decoration: none;
+}
